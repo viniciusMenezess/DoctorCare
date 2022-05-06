@@ -48,6 +48,5 @@ ScrollReveal({
 #contact,
 #contact header, 
 #contact .content,
-#footer,
-#footer header, 
-#footer .content`)
+footer,
+footer .logo`)
